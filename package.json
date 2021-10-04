@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mongodb": "^4.1.2",
+    "node": "^16.10.0"
+  },
+  "name": "mongodb1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/que2115/mongodb1.git"
+  },
+  "author": "Jakub Troka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/que2115/mongodb1/issues"
+  },
+  "homepage": "https://github.com/que2115/mongodb1#readme",
+  "description": ""
+}
